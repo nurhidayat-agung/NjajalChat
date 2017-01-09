@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "421789070067",
+    "firebase_url": "https://njajalchat.firebaseio.com",
+    "project_id": "njajalchat",
+    "storage_bucket": "njajalchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421789070067:android:756924f0edfac382",
+        "android_client_info": {
+          "package_name": "nurhidayat.agung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421789070067-r7m3vm16h6u174mu9fhjacfmrcqr9lp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACo0qirrWhqt-nKZokq2_D5lO582fK59w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
